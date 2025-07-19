@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatthieuScarset
-- 👀 I’m interested in all things Drupal and Web3
+- 👀 I’m interested in all things Drupal, Data, AI and Web3
 - 🌱 I’m currently learning Data Science and Machine Learning
-- 💞️ I would like some help to work on some Drupal modules:
+- 💞️ I welcome any help to work on these side projects:
   - [Drupal Ethereum](https://drupal.org/project/ethereum)
   - [Calendar View](https://drupal.org/project/calendar_view)
 - 📫 Reach me https://matthieuscarset.com
